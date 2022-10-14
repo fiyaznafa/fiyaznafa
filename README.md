@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms**
 
-- 👨‍💻 All of my projects are available at [https://github.com/fiyaznafa/](https://github.com/fiyaznafa/)
+- 👨‍💻 All of my projects are available at [https://github.com/fiyaznafa?tab=repositories](https://github.com/fiyaznafa?tab=repositories)
 
 - 💬 Ask me about **Design Patterns, Test Automation Strategies**
 
